@@ -8,7 +8,7 @@ const __DATA__ = {
     'avatar-image': 'avatar.png',
     'name': 'Bùi Đăng Phúc',
     'is_tick': true,
-    'skills': ['Developer', 'Socila Media', ],
+    'skills': ['Developer', 'Hỗ Trợ Facebook', ],
     'bio-storys': [{
         'image': 'admin.png',
         'content': 'LIÊN HỆ ADMIN',
