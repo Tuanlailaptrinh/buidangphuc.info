@@ -2,7 +2,8 @@ const __DATA__ = {
     'config': {
         'title': 'Home',
         'favicon': 'home.png',
-        'notice': 'Hi Bạn Nhé !'
+        'notice': 'support - dịch vụ mxh 
+facebook - instagram - tiktok - yotube'
     },
     'cover-image': 'bia.gif',
     'avatar-image': 'avatar.png',
