@@ -1,11 +1,11 @@
 const __DATA__ = {
     'config': {
-        'title': 'Home',
+        'title': 'Bùi Đăng Phúc - Thông tin cá nhân',
         'favicon': 'home.png',
         'notice': 'SUPPORT - DỊCH VỤ MẠNG XÃ HỘI Facebook - Ins - Tiktok - Youtube'
     },
     'cover-image': 'bia.gif',
-    'avatar-image': 'avatar.png',
+    'avatar-image': 'avatar1.png',
     'name': 'Bùi Đăng Phúc',
     'is_tick': true,
     'skills': ['Developer', 'Hỗ Trợ Facebook', ],
