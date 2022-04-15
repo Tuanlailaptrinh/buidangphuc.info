@@ -1,6 +1,6 @@
 const __DATA__ = {
     'config': {
-        'title': 'Bùi Đăng Phúc - Thông tin cá nhân',
+
         'favicon': 'home.png',
         'notice': 'SUPPORT - DỊCH VỤ MẠNG XÃ HỘI Facebook - Ins - Tiktok - Youtube'
     },
