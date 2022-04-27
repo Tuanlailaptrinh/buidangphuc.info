@@ -30,7 +30,7 @@ const __DATA__ = {
         'image': 'zalo.jpg',
         'title': 'Zalo',
         'show-value': 'Bùi Đăng Phúc',
-        'value': 'https://zalo.me/0762313378 ',
+        'value': 'https://zalo.me/0393962382 ',
         'type': 0,
     }, {
         'image': 'phone.png',
